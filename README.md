@@ -8,7 +8,7 @@ I am a **Software Engineer** with over **3+ years** of experience in designing, 
 Currently, I am working on **cloud-based automation solutions** leveraging **AWS, Kestra, Jenkins, Docker, and React** to streamline DevOps workflows. I am passionate about **distributed systems, microservices architecture, and cloud security** while continuously enhancing my leadership and business acumen.  
 
 ## 🔥 **Core Skills**  
-- **Backend Development:** Java (11+), Spring Boot, RESTful APIs, Microservices  
+- **Backend Development:** Java (17+), Spring Boot, RESTful APIs, Microservices  
 - **Cloud & DevOps:** AWS (Certified Solutions Architect Associate), Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions, Nexus, SonarQube)  
 - **Programming & Scripting:** Java, Python, Go, Node.js  
 - **Build & Automation Tools:** Gradle, Maven, Git, Kestra  
